@@ -1,2 +1,2 @@
 # Lung-Cancer-Prediction-using-ML
-To predict the accuracy of various ML algorithms on a Lung Cancer dataset
+The objective of the project is to explore a given lung cancer dataset and to compare the accuracy of various ML Algorithms on the dataset.
